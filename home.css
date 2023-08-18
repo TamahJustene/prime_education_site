@@ -1,3 +1,8 @@
 .navbar-brand img {
   width: 130px;
 }
+.subscripte-section {
+  background-image: url(assets/subscribe.webp);
+  background-size: cover; 
+      background-repeat: no-repeat; 
+}
